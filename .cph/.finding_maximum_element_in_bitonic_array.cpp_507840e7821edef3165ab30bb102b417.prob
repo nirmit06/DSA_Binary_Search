@@ -1,0 +1,1 @@
+{"name":"Local: finding_maximum_element_in_bitonic_array","url":"d:\\Binary_search\\finding_maximum_element_in_bitonic_array.cpp","tests":[{"id":1655994639721,"input":"5\n1 3 4 5 7","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Binary_search\\finding_maximum_element_in_bitonic_array.cpp","group":"local","local":true}

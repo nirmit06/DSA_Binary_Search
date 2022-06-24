@@ -1,0 +1,1 @@
+{"name":"Local: allocate_pages_of_book","url":"d:\\Binary_search\\allocate_pages_of_book.cpp","tests":[{"id":1656005579110,"input":"4 2\n10 20 30 40","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Binary_search\\allocate_pages_of_book.cpp","group":"local","local":true}
